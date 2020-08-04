@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Stigi888/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Stigi888/static/js/main.81882af4.chunk.js",
-    "main.js.map": "/Stigi888/static/js/main.81882af4.chunk.js.map",
-    "runtime-main.js": "/Stigi888/static/js/runtime-main.05e11eb1.js",
-    "runtime-main.js.map": "/Stigi888/static/js/runtime-main.05e11eb1.js.map",
-    "static/css/2.30c2d978.chunk.css": "/Stigi888/static/css/2.30c2d978.chunk.css",
-    "static/js/2.1214f495.chunk.js": "/Stigi888/static/js/2.1214f495.chunk.js",
-    "static/js/2.1214f495.chunk.js.map": "/Stigi888/static/js/2.1214f495.chunk.js.map",
-    "index.html": "/Stigi888/index.html",
-    "precache-manifest.5cba3725b19d735e2c72e26a73234200.js": "/Stigi888/precache-manifest.5cba3725b19d735e2c72e26a73234200.js",
-    "service-worker.js": "/Stigi888/service-worker.js",
-    "static/css/2.30c2d978.chunk.css.map": "/Stigi888/static/css/2.30c2d978.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/Stigi888/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.1214f495.chunk.js.LICENSE.txt": "/Stigi888/static/js/2.1214f495.chunk.js.LICENSE.txt"
+    "main.css": "/stigi888/static/css/main.5f361e03.chunk.css",
+    "main.js": "/stigi888/static/js/main.6d304ada.chunk.js",
+    "main.js.map": "/stigi888/static/js/main.6d304ada.chunk.js.map",
+    "runtime-main.js": "/stigi888/static/js/runtime-main.06fa8782.js",
+    "runtime-main.js.map": "/stigi888/static/js/runtime-main.06fa8782.js.map",
+    "static/css/2.30c2d978.chunk.css": "/stigi888/static/css/2.30c2d978.chunk.css",
+    "static/js/2.1214f495.chunk.js": "/stigi888/static/js/2.1214f495.chunk.js",
+    "static/js/2.1214f495.chunk.js.map": "/stigi888/static/js/2.1214f495.chunk.js.map",
+    "index.html": "/stigi888/index.html",
+    "precache-manifest.fa897777ea13ec1ef31f13d3a5f655ac.js": "/stigi888/precache-manifest.fa897777ea13ec1ef31f13d3a5f655ac.js",
+    "service-worker.js": "/stigi888/service-worker.js",
+    "static/css/2.30c2d978.chunk.css.map": "/stigi888/static/css/2.30c2d978.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/stigi888/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1214f495.chunk.js.LICENSE.txt": "/stigi888/static/js/2.1214f495.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.05e11eb1.js",
+    "static/js/runtime-main.06fa8782.js",
     "static/css/2.30c2d978.chunk.css",
     "static/js/2.1214f495.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.81882af4.chunk.js"
+    "static/js/main.6d304ada.chunk.js"
   ]
 }
