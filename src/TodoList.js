@@ -5,14 +5,21 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 function TodoList(props) {
 
-    const {markAsDone,markDoAgain, list, remove, todoUpdate, moveUpButton, moveDownButton} = props
+    const {markAsDone,
+        markDoAgain,
+        list,
+        remove,
+        todoUpdate,
+        moveUpButton,
+        moveDownButton,
+        lengthList} = props
 
         return (
     <div>
-        <h3 class="alert alert-primary" role="alert">To do List</h3>
+        <h3 className="alert alert-primary" role="alert">To do List</h3>
        {list.map((el,index) => <ToDoListItem
            todo={el}
-           key={el.id}
+           key={el._id}
            markAsDone={markAsDone}
            markDoAgain={markDoAgain}
            remove={remove}
@@ -20,7 +27,7 @@ function TodoList(props) {
            moveUpButton={moveUpButton}
            moveDownButton={moveDownButton}
            index={index}
-
+           lengthList={lengthList}
        />)}
 
     </div>
